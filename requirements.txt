@@ -1,4 +1,4 @@
-qiskit==1.2.4
 streamlit==1.37.1
-plotly==5.23.0
 numpy==1.26.4
+plotly==5.23.0
+qiskit==0.44.0
